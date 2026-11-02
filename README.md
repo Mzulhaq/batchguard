@@ -2,6 +2,8 @@
 
 BatchGuard is a local Python and SQLite pipeline for contract-checked CSV sales ingestion. It validates each batch, records row-level decisions, applies a configurable quality gate, and atomically publishes accepted facts with audit history. It uses only Python's standard library at runtime.
 
+[CI results](https://github.com/Mzulhaq/batchguard/actions/workflows/ci.yml) · [Verification details](docs/validation.md) · [Interview guide and exercise](docs/interview-guide.md)
+
 ## Pipeline
 
 ```mermaid

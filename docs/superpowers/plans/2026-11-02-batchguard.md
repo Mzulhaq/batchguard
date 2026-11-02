@@ -51,6 +51,6 @@ Files: synthetic `examples/*.csv`, `scripts/demo.py`, README, interview/validati
 - [x] Run synthetic workflow and assert quarantine, blocked promotion, recovery and exact currency totals.
 - [x] Run suite, lint/format, package build and clean wheel/demo installation.
 - [x] Receive independent review, fix material findings and verify changes.
-- [ ] Publish new repository, confirm remote commit and CI; complete weekly ledger and deliver two resume drafts plus exercise.
+- [x] Publish new repository, confirm source commit and all four CI jobs; prepare weekly ledger and deliver two resume drafts plus exercise in the interview guide.
 
 The scheduled instructions authorize sensible defaults and full execution. This standalone repository isolates work from RelayQueue; no extra brainstorming or plan approval is required.
