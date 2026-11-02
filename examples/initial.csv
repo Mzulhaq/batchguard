@@ -1,0 +1,6 @@
+order_id,ordered_at,customer_id,sku,quantity,unit_price,currency
+ord-001,2026-11-01T10:00:00Z,customer-001,book,2,12.50,USD
+ord-002,2026-11-01T11:00:00Z,customer-002,pen,1,5.00,USD
+ord-003,2026-11-01T12:00:00+00:00,customer-003,sticker,3,0.10,EUR
+ord-004,2026-11-01T13:00:00Z,customer-004,notebook,1,9.99,GBP
+ord-005,2026-11-01T14:00:00Z,customer-005,pencil,0,3.00,USD
